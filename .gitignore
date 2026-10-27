@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+.env
+findit_demo.sqlite3
+*.db
+.DS_Store
+.tmp/
